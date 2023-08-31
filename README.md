@@ -20,7 +20,7 @@
       <ul>
         <li class="itens">Atendimento aos Clientes</li>
         <li class="itens">Espaço diferenciado</li>
-        <li class="itens">Localização</li>
+        <li class="itens">Espaço Aberto</li>
         <li class="itens">Profissionais Qualificados</li>
           </ul>
      </div>
