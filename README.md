@@ -16,8 +16,9 @@
   <div class="principal">
          <p>Localizada no centro da cidade a <strong>LootFood</strong> traz o melhor lanche da cidade.
           Fundado em 2021, a lanchonete já é destaque na cidade.</p>
-         <p> <em> <strong>Nossa missão é: "Proporcionar a melhor lanchada de sua vida".</strong> </em></p>
-         <p>Temos os melhores funcionarios para você ter uma bela lanchada.</p>
+         <p id="missao"> <em> <strong>Nossa missão é: "Proporcionar a melhor lanchada de sua vida".</strong> </em></p>
+         <p>Temos os melhores funcionarios para você ter uma bela lanchada.
+            A lanchonete garante atendimento rapido e eficaz para sanar a satisfação e felicidadedos clientes.</p>
      </div>
      <div class="beneficios">
       <h3>Benefícios</h3>
