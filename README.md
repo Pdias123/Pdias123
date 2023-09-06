@@ -18,16 +18,17 @@
           Fundado em 2021, a lanchonete já é destaque na cidade.</p>
          <p id="missao"> <em> <strong>Nossa missão é: "Proporcionar a melhor lanchada de sua vida".</strong> </em></p>
          <p>Temos os melhores funcionarios para você ter uma bela lanchada.
-            A lanchonete garante atendimento rapido e eficaz para sanar a satisfação e felicidadedos clientes.</p>
+            A lanchonete garante atendimento rapido e eficaz para sanar a satisfação e felicidade dos clientes.</p>
      </div>
      <div class="beneficios">
-      <h3>Benefícios</h3>
+      <h3 class="titulo-centralizado">Benefícios</h3>
       <ul>
         <li class="itens">Atendimento aos Clientes</li>
         <li class="itens">Espaço diferenciado</li>
         <li class="itens">Espaço Aberto</li>
         <li class="itens">Profissionais Qualificados</li>
           </ul>
+          <img src="beneficios.jpg" class="imagembeneficios">
      </div>
  </body>
  </html>
